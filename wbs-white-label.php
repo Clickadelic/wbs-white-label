@@ -2,12 +2,12 @@
 /*
 Plugin Name: WBS White Label
 Plugin URI:  https://github.com/Clickadelic/wbs-white-label
-Description: A plugin to white label your WordPress installation (hide all logos, etc.).
-Version:     0.0.1
+Description: A plugin to white label your WordPress installation.
+Version:     0.0.2
 Author:      Tobias Hopp
 Author URI:  https://www.tobias-hopp.de
 License:     GPL2
-License URI: u-known
+License URI: GPL2
 Text Domain: wbs-white-label
 Domain Path: /languages
 */
