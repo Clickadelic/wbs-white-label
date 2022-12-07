@@ -1,0 +1,25 @@
+body.login {
+	background: url('../images/Snow-Landscape.jpg') top center no-repeat;
+	background-size: cover;
+}
+
+.login h1 a {
+	background: url('../images/Merry-Christmas.png') 0 -50px no-repeat;
+	background-size: cover;
+	width: 260px;
+	height: 150px;
+}
+
+form#loginform {
+	border-radius: 10px;
+	border-color:lightblue;
+}
+
+.login .button-primary {
+	background-color: #950A16;
+	border-color: transparent;
+}
+
+.login .button-primary:hover {
+	background-color: #005138;
+}
